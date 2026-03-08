@@ -22,6 +22,16 @@ A comprehensive, hands-on guide to Node.js concepts — organized as Jupyter not
 | 09 | [Testing & Deployment](./09-testing-and-deployment.ipynb) | Jest, Mocha, supertest, Docker, CI/CD, PM2 |
 | 10 | [Advanced Topics](./10-advanced-topics.ipynb) | Worker Threads, Child Processes, Design Patterns, Microservices |
 
+### Interview Q&A (MCQs + Detailed Answers)
+
+| # | Topic | Contents |
+|---|-------|----------|
+| 11 | [Q&A: Fundamentals & Event Loop](./11-interview-qa-fundamentals.ipynb) | 43 MCQs + 7 detailed Q&A on Node.js architecture, event loop output prediction, modules |
+| 12 | [Q&A: Async, Streams & Express](./12-interview-qa-async-streams.ipynb) | 40 MCQs + 7 detailed Q&A on Promises, async/await, streams, REST API design |
+| 13 | [Q&A: Security, DB, Testing & Advanced](./13-interview-qa-advanced.ipynb) | 45 MCQs + 7 detailed Q&A on security, databases, testing, microservices, design patterns |
+
+> **Total: 128 multiple-choice questions + 21 detailed interview Q&As with model answers**
+
 ## How to Use
 
 1. Clone the repo
