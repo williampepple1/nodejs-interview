@@ -1,13 +1,24 @@
-# Node.js Interview Preparation
+# Node.js & JavaScript Interview Preparation
 
-A comprehensive, hands-on guide to Node.js concepts — organized as Jupyter notebooks with runnable code examples and detailed explanations. Built for interview prep.
+A comprehensive, hands-on guide to JavaScript and Node.js concepts — organized as Jupyter notebooks with runnable code examples and detailed explanations. Built for interview prep.
 
 ## Prerequisites
 
 - **Node.js** v18+ installed
 - **Jupyter Notebook** with the [IJavascript kernel](https://github.com/nickkidd/ijavascript) or use VS Code's built-in notebook support
 
-## Notebooks
+## JavaScript Basics (200 MCQs + 50 Q&A)
+
+| Part | Topic | Contents |
+|------|-------|----------|
+| 00-P1 | [Variables, Types, Operators & Coercion](./00-javascript-basics-part1.ipynb) | 50 MCQs on var/let/const, data types, type coercion, equality, operators |
+| 00-P2 | [Functions, Scope, Closures & `this`](./00-javascript-basics-part2.ipynb) | 50 MCQs on functions, scope chain, closures, `this` keyword, call/apply/bind |
+| 00-P3 | [Arrays, Objects, Prototypes & Classes](./00-javascript-basics-part3.ipynb) | 50 MCQs on array methods, object manipulation, prototype chain, ES6 classes |
+| 00-P4 | [ES6+, Async, Misc + 50 Q&A](./00-javascript-basics-part4.ipynb) | 50 MCQs on ES6+ features, Promises, error handling + **50 detailed Q&A** |
+
+> **JavaScript Total: 200 MCQs + 50 detailed interview Q&As with model answers**
+
+## Node.js Notebooks
 
 | # | Topic | Key Concepts |
 |---|-------|-------------|
